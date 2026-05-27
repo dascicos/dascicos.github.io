@@ -1,4 +1,4 @@
-[Auf Deutsch wechseln / Switch to German](README_ger.md)
+[Auf Deutsch wechseln / Switch to German](README.md)
 
 # DaSciCos
 ## Applied Mathematics, Data Science & Machine Learning Consulting.
