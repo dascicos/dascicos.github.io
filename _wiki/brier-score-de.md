@@ -2,7 +2,7 @@
 layout: default
 title: "Brier Score: Definition & Berechnung"
 lang: de
-permalink: /wiki/brier-score/
+permalink: de/wiki/brier-score/
 ---
 *[Read this article in English](/en/wiki/brier-score/)*
 
