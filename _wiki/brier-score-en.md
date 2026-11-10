@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: "Brier Score: Definition & Calculation"
