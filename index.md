@@ -4,7 +4,7 @@ title: "DaSciCos - Welcome"
 ---
 
 <div style="text-align: center; margin-top: 50px;">
-  <h2>Welcome to DaSciCos / Willkommen bei DaSciCos</h2>
+  <h2>Welcome to DaSciCos</h2>
   <p>Applied Mathematics, Data Science & Machine Learning Consulting</p>
   
   <br>
