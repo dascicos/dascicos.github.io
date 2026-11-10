@@ -1,3 +1,6 @@
+---
+layout: default
+---
 [Auf Deutsch wechseln / Switch to German](/de/)
 
 # DaSciCos
