@@ -1,4 +1,4 @@
-[Auf Englisch wechseln / Switch to English](README_eng.md)
+Switch to English](README_eng.md)
 
 # DaSciCos
 
