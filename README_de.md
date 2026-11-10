@@ -20,6 +20,11 @@ Willkommen bei DaSciCos! Ich helfe dabei, komplexe Daten in klare Entscheidungen
 
 ---
 
+### Data Science Wiki & Glossar
+[Hier geht es zu meinem Wiki](/de/wiki/)
+
+---
+
 ## Kontakt
 Lassen Sie uns über Ihre Daten sprechen. 
 📩 **E-Mail:** [dascicos@mailbox.org](mailto:dascicos@mailbox.org)
