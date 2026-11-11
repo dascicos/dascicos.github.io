@@ -4,3 +4,7 @@ theme: jekyll-theme-cayman
 collections:
   wiki:
     output: true
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
