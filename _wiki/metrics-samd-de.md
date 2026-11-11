@@ -4,9 +4,11 @@ title: "Metriken - SAMD (Software as a Medical Device)"
 lang: de
 permalink: /de/wiki/metrics-samd/
 ---
+
 *[Read this article in English](/en/wiki/metrics-samd/)*
 
 # Übersicht
+
 | Kategorie | Metrik / Parameter | Fokus & Interpretation |
 | :--- | :--- | :--- |
 | **Gesamtleistung (Overall Performance)** | • Brier Score<br>• Brier Baseline Score<br>• Brier Skill Score<br>• Log-Loss / Cross-Entropy | Kombiniertes Maß aus Diskriminierung und Kalibrierung. |
